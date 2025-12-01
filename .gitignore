@@ -1,0 +1,13 @@
+# Compiled files
+*.o
+*.bin
+*.iso
+
+# Build folders
+isodir/
+iso/
+build/
+
+# macOS system files
+.DS_Store
+
